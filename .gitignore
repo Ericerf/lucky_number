@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Environment-specific files
+.env
+.env.*
+
+# Ignore player-specific files (if any)
+*.txt
+
